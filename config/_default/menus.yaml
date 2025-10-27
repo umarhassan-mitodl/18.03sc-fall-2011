@@ -1,0 +1,240 @@
+leftnav:
+- identifier: 21829777-b759-4964-a24e-c8685361f3d2
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 26908f85-4e2c-8f70-f855-103e2a50f442
+  name: Meet the TAs
+  pageRef: /pages/syllabus/meet-the-tas
+  parent: 21829777-b759-4964-a24e-c8685361f3d2
+  weight: 20
+- identifier: caf00851-e89b-da65-c746-04b48066d4ec
+  name: 'Unit I: First Order Differential Equations'
+  pageRef: /pages/unit-i-first-order-differential-equations/
+  weight: 30
+- identifier: 1160d0a4-4a5b-3600-2e9a-a0fdfe6fa6b8
+  name: Conventions
+  pageRef: /pages/unit-i-first-order-differential-equations/conventions-and-preliminary-material
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 40
+- identifier: 2f7fcab3-b55b-b888-a9aa-1c209df0024e
+  name: Basic DE's
+  pageRef: /pages/unit-i-first-order-differential-equations/basic-de-and-separable-equations
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 50
+- identifier: 86c3ecfb-976d-d6c8-1796-f0e0e78ca617
+  name: Geometric Methods
+  pageRef: /pages/unit-i-first-order-differential-equations/geometric-methods
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 60
+- identifier: 54d03b40-8dd2-7385-59db-03f6f1ebac22
+  name: Numerical Methods
+  pageRef: /pages/unit-i-first-order-differential-equations/numerical-methods
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 70
+- identifier: 0d78ffc3-e5f4-5556-afa4-95492cde6c39
+  name: Linear ODE's
+  pageRef: /pages/unit-i-first-order-differential-equations/first-order-linear-odes
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 80
+- identifier: 85e38b6f-c1b6-5066-bdac-31cdc301c1a6
+  name: Integrating Factors
+  pageRef: /pages/unit-i-first-order-differential-equations/solution-by-integrating-factors
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 90
+- identifier: 69221f05-4c8b-250b-3c36-eaf8a4e65a9f
+  name: Complex Arithmetic
+  pageRef: /pages/unit-i-first-order-differential-equations/complex-arithmetic-and-exponentials
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 100
+- identifier: a4e8634f-4a46-e6ae-1032-0d6aed6b9dff
+  name: Sinusoidal Functions
+  pageRef: /pages/unit-i-first-order-differential-equations/sinusoidal-functions
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 110
+- identifier: 3689226a-36ca-8c2d-8d7f-34ad74678477
+  name: Constant Coefficients
+  pageRef: /pages/unit-i-first-order-differential-equations/first-order-constant-coefficient-linear-odes
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 120
+- identifier: 4dc0b7d9-6276-143e-0c61-0888caefa273
+  name: Exponential Input
+  pageRef: /pages/unit-i-first-order-differential-equations/exponential-input-gain-and-phase-lag
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 130
+- identifier: 6d4be452-872f-f9e1-8e76-8fba5cb7a232
+  name: ' Autonomous Equations'
+  pageRef: /pages/unit-i-first-order-differential-equations/first-order-autonomous-differential-equations
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 140
+- identifier: d47cf90f-d372-d21c-7812-510ff789a1e0
+  name: Linear vs. Nonlinear
+  pageRef: /pages/unit-i-first-order-differential-equations/linear-vs--nonlinear
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 150
+- identifier: 0c2acd90-1f6a-61eb-c0f5-815ab4c4b00e
+  name: Exam 1
+  pageRef: /pages/unit-i-first-order-differential-equations/exam-1
+  parent: caf00851-e89b-da65-c746-04b48066d4ec
+  weight: 160
+- identifier: 45e768c7-5eb2-5bba-1902-446ed5a94c09
+  name: 'Unit II: Second Order Constant Coefficient Linear Equations'
+  pageRef: /pages/unit-ii-second-order-constant-coefficient-linear-equations/
+  weight: 170
+- identifier: dde9f135-842a-7894-459c-d501349e5235
+  name: Characteristic Equation
+  pageRef: /pages/unit-ii-second-order-constant-coefficient-linear-equations/modes-and-the-characteristic-equation
+  parent: 45e768c7-5eb2-5bba-1902-446ed5a94c09
+  weight: 180
+- identifier: fcc68029-d25e-a966-8f8d-74338ab4c023
+  name: Damped Oscillators
+  pageRef: /pages/unit-ii-second-order-constant-coefficient-linear-equations/damped-harmonic-oscillators
+  parent: 45e768c7-5eb2-5bba-1902-446ed5a94c09
+  weight: 190
+- identifier: afa50382-4b4d-f214-67a3-8bdb6a9d0e27
+  name: Exponential Response
+  pageRef: /pages/unit-ii-second-order-constant-coefficient-linear-equations/exponential-response
+  parent: 45e768c7-5eb2-5bba-1902-446ed5a94c09
+  weight: 200
+- identifier: c8408cf2-8d7b-0ccf-f919-cc7e5cf977ce
+  name: Gain and Phase Lag
+  pageRef: /pages/unit-ii-second-order-constant-coefficient-linear-equations/gain-and-phase-lag
+  parent: 45e768c7-5eb2-5bba-1902-446ed5a94c09
+  weight: 210
+- identifier: 997c993c-eb52-2721-308a-867f2c1e5ac3
+  name: Undetermined Coefficients
+  pageRef: /pages/unit-ii-second-order-constant-coefficient-linear-equations/undetermined-coefficients
+  parent: 45e768c7-5eb2-5bba-1902-446ed5a94c09
+  weight: 220
+- identifier: 1db21ff5-54d4-5578-7a77-bcaa06755e55
+  name: Linear Operators
+  pageRef: /pages/unit-ii-second-order-constant-coefficient-linear-equations/linear-operators-linear-time-invariance
+  parent: 45e768c7-5eb2-5bba-1902-446ed5a94c09
+  weight: 230
+- identifier: 04f0717c-e427-8b51-ee36-28a4b0f54b1f
+  name: Pure Resonance
+  pageRef: /pages/unit-ii-second-order-constant-coefficient-linear-equations/pure-resonance
+  parent: 45e768c7-5eb2-5bba-1902-446ed5a94c09
+  weight: 240
+- identifier: 9b14d5f8-0e2c-13ac-a14c-8d291d554b14
+  name: Frequency Response
+  pageRef: /pages/unit-ii-second-order-constant-coefficient-linear-equations/frequency-response-and-practical-resonance
+  parent: 45e768c7-5eb2-5bba-1902-446ed5a94c09
+  weight: 250
+- identifier: df3149e1-a7f5-a2cc-28e6-5b462671494e
+  name: Applications
+  pageRef: /pages/unit-ii-second-order-constant-coefficient-linear-equations/applications-lrc-circuits-damping-ratio
+  parent: 45e768c7-5eb2-5bba-1902-446ed5a94c09
+  weight: 260
+- identifier: b56b22eb-c158-12b9-bbbe-8e63d86be91c
+  name: Exam 2
+  pageRef: /pages/unit-ii-second-order-constant-coefficient-linear-equations/exam-2
+  parent: 45e768c7-5eb2-5bba-1902-446ed5a94c09
+  weight: 270
+- identifier: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  name: 'Unit III: Fourier Series and Laplace Transform'
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/
+  weight: 280
+- identifier: 074becc5-a6a6-3335-7815-bb2ca82e3a15
+  name: 'Fourier Series: Basics'
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/fourier-series-basics
+  parent: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  weight: 290
+- identifier: ca45c161-8345-1041-6c66-419481c20e93
+  name: Operations
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/operations-on-fourier-series
+  parent: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  weight: 300
+- identifier: 09db90b6-761a-caa8-223d-1233e04d9d6d
+  name: Periodic Input
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/odes-with-periodic-input-resonance
+  parent: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  weight: 310
+- identifier: e1ac4e84-0236-d0ba-8b39-96546ae414c9
+  name: Step and Delta
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/step-and-delta-functions-integrals-and-generalized-derivatives
+  parent: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  weight: 320
+- identifier: ae5a9153-e84a-4720-7bba-52a575f9d6d8
+  name: Impulse Response
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/unit-step-and-unit-impulse-response
+  parent: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  weight: 330
+- identifier: 4529e4db-06c2-1cf9-bf59-359267d96fa8
+  name: Convolution
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/convolution
+  parent: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  weight: 340
+- identifier: 39a463dc-beac-67f1-8e36-99b2587d2c7d
+  name: Laplace Transform
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/laplace-transform-basics
+  parent: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  weight: 350
+- identifier: 13a3393e-1db3-47a0-4aac-5fb088f68093
+  name: Partial Fractions
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/partial-fractions-and-inverse-laplace-transform
+  parent: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  weight: 360
+- identifier: 50c3fc82-016d-da7d-1826-dba72ff554ed
+  name: Solving IVP's
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/laplace-transform-solving-initial-value-problems
+  parent: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  weight: 370
+- identifier: 7aec48b0-f081-8690-a2c7-6f43a870c1a3
+  name: Transfer Functions
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/transfer-system-and-weight-functions-greens-formula
+  parent: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  weight: 380
+- identifier: 9caaa587-c1e7-c531-0115-9c1470153038
+  name: Poles
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/poles-amplitude-response-connection-to-erf
+  parent: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  weight: 390
+- identifier: 42e32e71-9d56-c0b7-cd8c-8410df86ad39
+  name: Exam 3
+  pageRef: /pages/unit-iii-fourier-series-and-laplace-transform/exam-3
+  parent: 7c43a75f-68dd-f5b6-042a-c63be40a5296
+  weight: 400
+- identifier: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
+  name: 'Unit IV: First-order Systems'
+  pageRef: /pages/unit-iv-first-order-systems/
+  weight: 410
+- identifier: 7704ad07-83f7-1720-a984-a52df1fbe360
+  name: Linear Systems
+  pageRef: /pages/unit-iv-first-order-systems/linear-systems-introduction
+  parent: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
+  weight: 420
+- identifier: e32640ee-078f-3682-feef-7b3ae9a7e8c9
+  name: Matrix Methods
+  pageRef: /pages/unit-iv-first-order-systems/matrix-methods-eigenvalues-and-normal-modes
+  parent: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
+  weight: 430
+- identifier: 40ff2d12-b0e9-bf21-b16c-0be6303c5897
+  name: Phase Portraits
+  pageRef: /pages/unit-iv-first-order-systems/qualitative-behavior-phase-portraits
+  parent: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
+  weight: 440
+- identifier: 740fe4ca-9f7f-5daf-cec7-50013536f3c9
+  name: Matrix Exponentials
+  pageRef: /pages/unit-iv-first-order-systems/matrix-exponentials
+  parent: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
+  weight: 450
+- identifier: 41d04e83-6507-882b-4b90-c8e3f524091e
+  name: Nonlinear Systems
+  pageRef: /pages/unit-iv-first-order-systems/nonlinear-systems
+  parent: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
+  weight: 460
+- identifier: 63e076a5-12fb-f523-d18c-f5b9e2d4929d
+  name: Linearization
+  pageRef: /pages/unit-iv-first-order-systems/linearization-near-critical-points
+  parent: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
+  weight: 470
+- identifier: d738c767-d051-1230-6ae5-07fea563425d
+  name: Limit Cycles and Chaos
+  pageRef: /pages/unit-iv-first-order-systems/limitations-of-the-linear-limit-cycles-and-chaos
+  parent: 67b0ec8e-f9f6-e5cb-261c-3f47dae7fef0
+  weight: 480
+- identifier: 9f0caa10-7141-eae0-f9cf-534cf2596c02
+  name: Final Exam
+  pageRef: /pages/final-exam
+  weight: 490
