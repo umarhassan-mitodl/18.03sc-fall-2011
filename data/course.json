@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "43ec92c7-2dc8-b84b-8bba-670ddf06c157",
+  "instructors": {
+    "content": [
+      "583cc582-1f48-236c-af5a-b2f4750fef40",
+      "7e99c171-2da4-1fdc-a984-68ab5291d71d",
+      "bb9d4273-bbbb-62f6-d62c-7f020d776ba1",
+      "e5eed915-c651-331d-a056-f2a8cd19bc4c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "41623c6e-ccbf-82e1-37be-bd7e69b8a4d8",
+    "website": "18-03sc-differential-equations-fall-2011"
+  },
+  "course_title": "Differential Equations",
+  "course_description": "The laws of nature are expressed as differential equations. Scientists and engineers must know how to model the world in terms of differential equations, and how to solve those equations and interpret the solutions. This course focuses on the equations and techniques most useful in science and engineering.\n\nCourse Format\n\nThis course has been designed for independent study. It provides everything you will need to understand the concepts covered in the course. The materials include:\n\n- **Lecture Videos** by Professor Arthur Mattuck.\n- **Course Notes** on every topic.\n- **Practice Problems** with **Solutions**.\n- **Problem Solving Videos** taught by experienced MIT Recitation Instructors.\n- **Problem Sets** to do on your own with **Solutions** to check your answers against when you're done.\n- A selection of **Interactive Java\u00ae Demonstrations** called _Mathlets_ to illustrate key concepts.\n- A full set of **Exams with Solutions**, including practice exams to help you prepare.\n\nContent Development\n\nHaynes Miller\u00a0  \nJeremy Orloff\u00a0  \nDr. John Lewis\u00a0  \nArthur Mattuck",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.03SC",
+  "course_image_thumbnail": {
+    "content": "db4e373c-d5e5-72fd-d321-9c2d930c17bc",
+    "website": "18-03sc-differential-equations-fall-2011"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem-solving Videos",
+    "Exams with Solutions",
+    "Simulations",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "d1072f7f-8e57-44d1-ad38-e379db96d6ea",
+  "site_short_id": "18.03sc-fall-2011",
+  "site_url_path": "courses/18-03sc-differential-equations-fall-2011",
+  "title": "Course Metadata"
+}
